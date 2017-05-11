@@ -1,0 +1,14 @@
+.navbar-default, .navwords {
+	color: navy !important;
+}
+
+.navbar-default {
+	border: 2px solid navy;
+	margin-bottom: 15px;
+}
+
+#profilepic {
+	width: 45%;
+	height: 45%;
+}
+
